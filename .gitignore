@@ -13,7 +13,6 @@ ENV/
 .ipynb_checkpoints/
 
 # Colab & Notebook specific
-*.ipynb
 *.ipynb_checkpoints
 .colab/
 
